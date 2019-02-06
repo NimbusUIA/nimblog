@@ -12,9 +12,9 @@ Dette er en blogg satt opp med gatsby.js for å dokumentere IS-304 og IS-305.
 
 <h2>Legge til ny post</h2>
 
-I 'src/templates/blog-post.js' er templaten som brukes til postene, så hvis du vil endre utseendet må det gjøres der.
-
 En ny post lages ved å opprette ny mappe under 'src/pages'. Navnet på mappen som opprettes brukes som URL for posten. Den nye mappen må ha en 'index.md' fil hvor man fyller inn informasjonen som skal vises i posten. Det enkleste er å kopiere 'index.md' fra en tidligere post og bytte ut informasjonen.
+
+I 'src/templates/blog-post.js' er templaten som brukes til postene, så hvis du vil endre utseendet må det gjøres der.
 
 Ved hjelp av graphql blir innholdet tilgjengelig som props i templaten.
 

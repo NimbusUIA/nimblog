@@ -5,9 +5,11 @@ Dette er en blogg satt opp med gatsby.js for å dokumentere IS-304 og IS-305.
 
 1. npm install
 
-2. gatsby develop
+2. npm install -g gatsby-cli
 
-3. tilgjengelig på localhost:8000
+3. gatsby develop
+
+4. tilgjengelig på localhost:8000
 
 
 <h2>Legge til ny post</h2>

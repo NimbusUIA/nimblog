@@ -9,7 +9,7 @@ function BlogPost(props) {
   
   return (
     <Layout>
-      <div>
+      <div className="post-container">
         <h1>{title}</h1>
         <div id="author">Av {author}</div>
         <div id="date">{date}</div>

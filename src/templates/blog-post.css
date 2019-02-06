@@ -8,9 +8,9 @@
     margin-bottom: 3%;
 }
 
-img {
-    width:auto;
-    height: 70vh;
-    padding-left: 32%;
+
+.post-container {
+    width: 100%;
+    margin: auto;
 }
 

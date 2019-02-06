@@ -9,7 +9,8 @@
 }
 
 img {
-    width:100%;
+    width:auto;
     height: 70vh;
+    padding-left: 32%;
 }
 

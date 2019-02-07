@@ -12,6 +12,7 @@ Vi har alle våre sterke sider som gjør det å jobbe sammen i en gruppe mye mer
 
 Vi skal lage et system for rombooking i forbindelse med bacheloroppgaven vår, som er bakgrunnen for denne bloggen. Prosjektet utføres i samarbeid med Evry Kristiansand, som vil fungere som produkteier og veiledere. Vi skal lage et system for rombooking, og tar utgangspunkt i Evry Kristiansand sine egne møterom. Vårt mål er å forbedre dagens system for rombooking ved Evry, slik at det skal bli enklere å bruke og ha bedre funksjonaliteter. I denne bloggen vil vi underveis i prosjektet, dokumentere og vise frem prosessen for hva vi har gjort. 
 
-<image src="https://scontent.fosl3-1.fna.fbcdn.net/v/t1.15752-9/51872919_644051872731574_8892212994428108800_n.jpg?_nc_cat=108&_nc_ht=scontent.fosl3-1.fna&oh=f27a11caab4ebd96519800344a96ff2d&oe=5CB46CF0"/> 
+<div class="img-container">
+<image src="https://scontent.fosl3-1.fna.fbcdn.net/v/t1.15752-9/51872919_644051872731574_8892212994428108800_n.jpg?_nc_cat=108&_nc_ht=scontent.fosl3-1.fna&oh=f27a11caab4ebd96519800344a96ff2d&oe=5CB46CF0"/></div>
 
 

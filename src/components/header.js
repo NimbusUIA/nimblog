@@ -5,15 +5,15 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      backgroundColor: `#303030`,
+      backgroundColor: `#343a40`,
       marginBottom: `1.45rem`,
-      borderBottom: `3px solid grey`
+      
     }}
   >
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 960,
+        maxWidth: 1300,
         padding: `1rem 1.0875rem`,
       }}
     >
@@ -23,6 +23,7 @@ const Header = ({ siteTitle }) => (
           style={{
             color: `white`,
             textDecoration: `none`,
+            fontWeight: `500`
           }}
         >
           {siteTitle}

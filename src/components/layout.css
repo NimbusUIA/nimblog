@@ -5,9 +5,10 @@ html {
 }
 body {
   margin: 0;
-  background-image: url("cloud2.png" );
+  background-image: url("../images/cloudz.jpeg" );
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
 article,
 aside,
@@ -62,7 +63,7 @@ dfn {
   font-style: italic;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 1.35em;
   margin: 0.67em 0;
 }
 mark {
@@ -427,10 +428,11 @@ table {
 }
 
 footer {
-  color: black;
+  padding-top: 5%;
+  color: white;
 }
 footer a {
-  color: black;
+  color: white;
 }
 
 #container {
@@ -438,6 +440,7 @@ footer a {
   max-width: 60%;
   padding: 0px 1.0875rem 1.45rem;
   padding-top: 0;
+  
 }
 
 @media screen and (max-width: 800px){

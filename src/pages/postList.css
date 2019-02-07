@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 425px) {
     .article-container {
       display: grid;
       grid-template-columns: repeat(1, minmax(275px, 1fr));

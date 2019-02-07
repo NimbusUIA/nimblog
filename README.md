@@ -5,7 +5,7 @@ Dette er en blogg satt opp med gatsby.js for å dokumentere IS-304 og IS-305.
 
 1. npm install
 
-2. npm install -g gatsby-cli
+2. npm install --global gatsby-cli
 
 3. gatsby develop
 

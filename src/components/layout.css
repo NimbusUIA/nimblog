@@ -10,6 +10,10 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+header a:hover {
+ transition: opacity 0.3s;
+}
 article,
 aside,
 details,
@@ -428,7 +432,7 @@ table {
 }
 
 footer {
-  padding-top: 5%;
+  padding-top: 1%;
   color: white;
 }
 footer a {

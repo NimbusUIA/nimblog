@@ -18,5 +18,10 @@ En ny post lages ved å opprette ny mappe under 'src/pages'. Navnet på mappen s
 
 I 'src/templates/blog-post.js' er templaten som brukes til postene, så hvis du vil endre utseendet må det gjøres der.
 
+<h2>Legge til bilder i post</h2>
+
+For at bildene skal midtstille seg i postsen må <img>-taggen ligge inne i en <div class="img-container">
+altså: <div class="img-container"><img src="bildeadressen din" /></div>
+
 Ved hjelp av graphql blir innholdet tilgjengelig som props i templaten.
 

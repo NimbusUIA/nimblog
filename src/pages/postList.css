@@ -36,17 +36,17 @@
   }
 
 .post-list hr {
-  border-top: 3px solid rgb(168, 35, 206);
+  border-top: 3px solid #303030;
   width: 100%;
 }
 
 .post-list {
-  border: 0px solid gainsboro;
+  border: 2px solid #303030;
   color: black;
   padding: 0.5rem;
   box-shadow: 0 2px 10px #5c5b5b;
   margin: auto;
-  background-color: white;
+  background-color: #ffffff;
   border-radius: 4px;
   height: 100%;
 }

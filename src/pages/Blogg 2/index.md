@@ -14,17 +14,18 @@ Tidlig i sprinten avtalte vi møte med produkteier for å ta en gjennomgang av d
 
 <h1>Design</h1>
 Vi har også laget en rekke designmodeller for systemet vårt. Her har vi noen eksempler på hvordan vi tror designet blir i det endelige systemet.
-Statechart diagram
+
+<h2>Statechart diagram</h2>
 <image src="https://i.ibb.co/g9Ysn1L/Basic-State-Diagram.png"/> 
 
-<h1>Wireframes</h1>
+<h2>Wireframes</h2>
 <image src="https://i.ibb.co/k1PKLjS/Forside-med-komponenter-dark-theme.png"/>
 <image src="https://i.ibb.co/3yrrq5D/Forside-med-komponenter-light-theme.png"/>
 
-Use case 
+<h2>Use case</h2> 
 <image src="https://i.ibb.co/0YV2zhG/Use-case-reserver-rom.png"/> 
 
-Sekvensdiagram
+<h2>Sekvensdiagram</h2>
 <image src="https://i.ibb.co/NxRvGZ3/Sekvensdiagram-Reservasjon.png"/> 
 
 
